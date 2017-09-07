@@ -6,4 +6,4 @@ testing commmandline commit
 
 testing file transitions using correct user account.
 
-john is adding text - working
+john is adding text - working - update status
