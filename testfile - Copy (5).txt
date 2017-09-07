@@ -1,0 +1,9 @@
+new file testing jira functionality
+
+ok lets test the next commit
+
+testing commmandline commit
+
+testing file transitions using correct user account.
+
+john is adding text - working - update status
